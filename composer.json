@@ -1,0 +1,13 @@
+{
+    "name": "tpp/demo",
+    "description": "TropiPay api usage demo",
+    "authors": [
+        {
+            "name": "Antonio Membrides Espinosa",
+            "email": "tonykssa@gmail.com"
+        }
+    ],
+    "require": {
+        "tonykssa/tpp-sdk": "^1.0"
+    }
+}

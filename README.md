@@ -7,4 +7,4 @@ TropiPay Demo based on PHP with Composer
 
 ## Run 
 - composer update
-- php demo 
+- php index.php 
